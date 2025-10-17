@@ -1,6 +1,5 @@
 # Prueba-seleccion-Frontend-Fullstack_Juanjo_Villarejo
-"Proyecto - Prueba Frontend-Fullstack"
-# Prueba selección Frontend/Fullstack — Entrega
+"Proyecto - Prueba Frontend-Fullstack" - Entrega
 
 
 ## Qué incluye
